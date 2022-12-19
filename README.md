@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joeson2798
 - 👀 I’m interested in ...Web development and photography
-- 🌱 I’m currently  ... Searching for a Job
+- 🌱 I’m currently working as a junior web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... joeson2798@gmail.com 
 
